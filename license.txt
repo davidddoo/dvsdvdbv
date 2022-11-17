@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kingdom Hearts III - Buzz Lightyear
+* source:	https://sketchfab.com/3d-models/kingdom-hearts-iii-buzz-lightyear-5de124f099514281b1ba66ad503f8730
+* author:	nickscheetz (https://sketchfab.com/nickscheetz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kingdom Hearts III - Buzz Lightyear" (https://sketchfab.com/3d-models/kingdom-hearts-iii-buzz-lightyear-5de124f099514281b1ba66ad503f8730) by nickscheetz (https://sketchfab.com/nickscheetz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
